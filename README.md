@@ -7,6 +7,19 @@ When a secret and JSON transaction is passed in, a signed transaction (also JSON
 
 ## Installation
 
+** Not on npm yet **
+
+For now, run from source:
+
+```
+git clone https://github.com/mikemilano/xrpsign
+cd xrpsign
+npm install
+npm link
+```
+
+Once it has been tested properly, I'll push it up to npm.
+
 ```
 npm install -g xrpsign
 ```
